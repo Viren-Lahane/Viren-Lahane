@@ -12,7 +12,7 @@
 
 ### 🚀 About Me
 
-- 🎓 **Recent CS Graduate** specializing in **AI, Machine Learning & Analytics**
+- 🎓 ** Computer Science Final Year Student ** specializing in **AI, Machine Learning & Analytics**
 - 💼 Completed a **6-month in-house internship** working on:
   - Brain-Computer Interface (**BCI**) systems
   - **AI-GEM** — AI-powered group elicitation & human-centric decision support

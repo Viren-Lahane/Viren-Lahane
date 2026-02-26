@@ -105,7 +105,4 @@
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Viren-Lahane&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Viren-Lahane&theme=radical&hide_border=true" alt="Streak" width="48%" />
-</div>
+

@@ -1,7 +1,7 @@
 <div align="center">
   <h1>👋 Hi, I'm Viren Lahane</h1>
   <p>
-    <strong>Computer Science Graduate</strong> | AI/ML + Backend Enthusiast<br>
+    <strong>Final Year Computer Science Student</strong> | AI/ML + Backend Enthusiast<br>
     Building intelligent, real-world applications with Python & modern tools
   </p>
 
